@@ -1,6 +1,6 @@
-from extractor import PNCPExtractor
-from transformer import PNCPTransformer
-from loader import PNCPLoader
+from src.extractor import PNCPExtractor
+from src.transformer import PNCPTransformer
+from src.loader import PNCPLoader
 
 def executar_pipeline():
     """

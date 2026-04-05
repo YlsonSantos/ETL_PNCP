@@ -25,10 +25,12 @@ class PNCPLoader:
             return
 
         try:
-            client = MongoClient(self.uri)
+            # Adicionado tls=True para garantir conexão segura com o Atlas
+            client = MongoClient(self.uri, tls=True)
             db = client[self.db_name]
             collection = db[self.collection_name]
             collection.insert_many(dados_tratados)
             client.close()
+            print(f"Sucesso: {len(dados_tratados)} registros inseridos.")
         except Exception as e:
             print(f"Erro: {e}")

@@ -25,8 +25,8 @@ A solução foi desenvolvida utilizando **Orientação a Objetos (POO)** em Pyth
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto_etl_pncp.git](https://github.com/seu-usuario/projeto_etl_pncp.git)
-    cd projeto_etl_pncp
+    git clone [https://github.com/YlsonSantos/ETL_PNCP.git](https://github.com/YlsonSantos/ETL_PNCP.git)
+    cd ETL_PNCP
     ```
 
 2.  **Configurar Variáveis de Ambiente:**
