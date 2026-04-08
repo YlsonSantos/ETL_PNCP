@@ -62,7 +62,7 @@ python src/main.py
 
 ## Grupo
 
-* Ylson Santos
+* Ylson Santos Queiroz Filho
 * Mariana Ferreira Wanderley
 * Pedro Diniz Bim Vasconcelos e Silva
 * Pierre Costa Santiago de Oliveira Neto
