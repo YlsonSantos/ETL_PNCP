@@ -63,3 +63,9 @@ python src/main.py
 ## Grupo
 
 * Ylson Santos
+* Mariana Ferreira Wanderley
+* Pedro Diniz Bim Vasconcelos e Silva
+* Pierre Costa Santiago de Oliveira Neto
+* Thaíssa Fernandes Siqueira Silva
+* Vyktor Fellype Pereira do Nascimento
+* Yuri Ricardo Albuquerque de França
